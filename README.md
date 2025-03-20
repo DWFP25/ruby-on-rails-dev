@@ -73,8 +73,8 @@ graph TD
 ### Deploy:
 ```bash
 # Use HTTPS or SSH authentication
-git clone https://github.com/dwdevs/ruby-on-rails.git
-git clone git@github.com:dwdevs/ruby-on-rails.git
+git clone https://github.com/DWFP25/ruby-on-rails-dev.git
+git clone git@github.com:DWFP25/ruby-on-rails-dev.git
 
 cd ruby-on-rails
 cp -av sample.env .env
