@@ -157,6 +157,8 @@ docker compose up -d
 1. Clone the repository:
    ```bash
    git clone git@github.com:DWFP25/ruby-on-rails-dev.git
+   or
+   git clone https://github.com/DWFP25/ruby-on-rails-dev.git
 
 2. Set up environment variables: Create .env file in the root of the git directory or copy sample.env:
    ```bash
